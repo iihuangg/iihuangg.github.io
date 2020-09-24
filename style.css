@@ -1,7 +1,5 @@
 body {
   background-image: url("/img/bg.png");
-}
-
-h3, p {
+  color: #ffffff;
   font-family: arial;
 }
