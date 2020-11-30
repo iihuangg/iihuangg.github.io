@@ -9,6 +9,7 @@ img {
 }
 
 iframe {
+  border: none;
   margin: auto;
   display: block;
 }
