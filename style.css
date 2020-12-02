@@ -8,8 +8,9 @@ h3 {
   text-align: center;
 }
 #container {
-  margin: auto;
   width: 70%;
+  margin: auto;
+  display: block;
 }
 #left {
   float: left;
